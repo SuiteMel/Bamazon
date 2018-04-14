@@ -66,5 +66,3 @@ function runApp() {
       });
     });
 }
-
-//add validation for possible empty inputs
